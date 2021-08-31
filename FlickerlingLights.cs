@@ -11,7 +11,7 @@ namespace FlickeringLights
         public static FlickerlingLights Instance => LazyInstance.Value;
 
         public override PluginPriority Priority { get; } = PluginPriority.Medium;
-        public override string Name { get; } = "Flickering Lights";
+        public override string Name { get; } = "Lights Malfunction";
         public override string Author { get; } = "BlackstrikeSK";
         public override Version Version { get; } = new Version(1, 0, 0);
 
