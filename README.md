@@ -7,6 +7,7 @@ Description:
 This plugin makes it so every round there happens an event after a specified amount of time which turns off lights in random rooms.
 
 Config:
+
 ``IsEnabled``: Enable/Disable The Plugin - Default To ``true``
 
 ``Delay``: Time Before The Event Happens - Default To ``45`` Seconds
